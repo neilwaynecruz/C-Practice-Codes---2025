@@ -1,0 +1,7 @@
+C:\Users\Neil Wayne Cruz\source\repos\InputUser\InputUser\bin\Debug\InputUser.exe.config
+C:\Users\Neil Wayne Cruz\source\repos\InputUser\InputUser\bin\Debug\InputUser.exe
+C:\Users\Neil Wayne Cruz\source\repos\InputUser\InputUser\bin\Debug\InputUser.pdb
+C:\Users\Neil Wayne Cruz\source\repos\InputUser\InputUser\obj\Debug\InputUser.csproj.AssemblyReference.cache
+C:\Users\Neil Wayne Cruz\source\repos\InputUser\InputUser\obj\Debug\InputUser.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\InputUser\InputUser\obj\Debug\InputUser.exe
+C:\Users\Neil Wayne Cruz\source\repos\InputUser\InputUser\obj\Debug\InputUser.pdb

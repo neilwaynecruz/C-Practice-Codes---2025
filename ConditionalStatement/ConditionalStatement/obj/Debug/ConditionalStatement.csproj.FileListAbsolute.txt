@@ -1,0 +1,7 @@
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.exe.config
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.exe
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.pdb
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalStatement\ConditionalStatement\obj\Debug\ConditionalStatement.csproj.AssemblyReference.cache
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalStatement\ConditionalStatement\obj\Debug\ConditionalStatement.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalStatement\ConditionalStatement\obj\Debug\ConditionalStatement.exe
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalStatement\ConditionalStatement\obj\Debug\ConditionalStatement.pdb

@@ -1,0 +1,7 @@
+C:\Users\Neil Wayne Cruz\source\repos\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+C:\Users\Neil Wayne Cruz\source\repos\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\Neil Wayne Cruz\source\repos\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\Neil Wayne Cruz\source\repos\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.AssemblyReference.cache
+C:\Users\Neil Wayne Cruz\source\repos\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+C:\Users\Neil Wayne Cruz\source\repos\RandomClass\RandomClass\obj\Debug\RandomClass.pdb

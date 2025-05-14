@@ -1,0 +1,14 @@
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.exe
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.deps.json
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.runtimeconfig.json
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.dll
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.pdb
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.AssemblyInfo.cs
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.dll
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\refint\MultiDimensionalArray.dll
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.pdb
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.genruntimeconfig.cache
+C:\Users\Neil Wayne Cruz\source\repos\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\net8.0\ref\MultiDimensionalArray.dll

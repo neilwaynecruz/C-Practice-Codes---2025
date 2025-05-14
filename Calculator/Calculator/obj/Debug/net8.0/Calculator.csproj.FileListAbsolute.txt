@@ -1,0 +1,14 @@
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\Neil Wayne Cruz\source\repos\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll

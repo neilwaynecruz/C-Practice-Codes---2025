@@ -1,0 +1,14 @@
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.exe
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.deps.json
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.runtimeconfig.json
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.dll
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.pdb
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.dll
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\refint\MyFirstProgram.dll
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.pdb
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.genruntimeconfig.cache
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\ref\MyFirstProgram.dll

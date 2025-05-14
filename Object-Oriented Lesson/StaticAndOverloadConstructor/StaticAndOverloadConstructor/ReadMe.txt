@@ -1,0 +1,2 @@
+- Includes Static which means all methods and variables that is static belongs to the class not from their instance or objects of that class
+- Also includes a overload constructor which having a multiple constructor with different number of parameters

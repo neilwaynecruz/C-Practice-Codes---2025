@@ -1,0 +1,1 @@
+- It includes only a Conditional Operator or also known as ternary operator

@@ -1,0 +1,14 @@
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net8.0\StringInterpolation.exe
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net8.0\StringInterpolation.deps.json
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net8.0\StringInterpolation.runtimeconfig.json
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net8.0\StringInterpolation.dll
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net8.0\StringInterpolation.pdb
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\StringInterpolation.dll
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\refint\StringInterpolation.dll
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\StringInterpolation.pdb
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\StringInterpolation.genruntimeconfig.cache
+C:\Users\Neil Wayne Cruz\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net8.0\ref\StringInterpolation.dll

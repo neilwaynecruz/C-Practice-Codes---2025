@@ -1,0 +1,14 @@
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\bin\Debug\net8.0\LoopsStatements.exe
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\bin\Debug\net8.0\LoopsStatements.deps.json
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\bin\Debug\net8.0\LoopsStatements.runtimeconfig.json
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\bin\Debug\net8.0\LoopsStatements.dll
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\bin\Debug\net8.0\LoopsStatements.pdb
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\LoopsStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\LoopsStatements.AssemblyInfoInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\LoopsStatements.AssemblyInfo.cs
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\LoopsStatements.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\LoopsStatements.dll
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\refint\LoopsStatements.dll
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\LoopsStatements.pdb
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\LoopsStatements.genruntimeconfig.cache
+C:\Users\Neil Wayne Cruz\source\repos\LoopsStatements\LoopsStatements\obj\Debug\net8.0\ref\LoopsStatements.dll

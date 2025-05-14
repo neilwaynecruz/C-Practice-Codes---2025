@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\StaticAndOverloadConstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5810CF-52A7-4C5A-9E31-90C57B0B8E8E}|StaticAndOverloadConstructor\\StaticAndOverloadConstructor.csproj|c:\\users\\neil wayne cruz\\source\\repos\\object-oriented lesson\\staticandoverloadconstructor\\staticandoverloadconstructor\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5810CF-52A7-4C5A-9E31-90C57B0B8E8E}|StaticAndOverloadConstructor\\StaticAndOverloadConstructor.csproj|solutionrelative:staticandoverloadconstructor\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5810CF-52A7-4C5A-9E31-90C57B0B8E8E}|StaticAndOverloadConstructor\\StaticAndOverloadConstructor.csproj|c:\\users\\neil wayne cruz\\source\\repos\\object-oriented lesson\\staticandoverloadconstructor\\staticandoverloadconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5810CF-52A7-4C5A-9E31-90C57B0B8E8E}|StaticAndOverloadConstructor\\StaticAndOverloadConstructor.csproj|solutionrelative:staticandoverloadconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\StaticAndOverloadConstructor\\StaticAndOverloadConstructor\\Pizza.cs",
+              "RelativeDocumentMoniker": "StaticAndOverloadConstructor\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\StaticAndOverloadConstructor\\StaticAndOverloadConstructor\\Pizza.cs",
+              "RelativeToolTip": "StaticAndOverloadConstructor\\Pizza.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:07:55.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\StaticAndOverloadConstructor\\StaticAndOverloadConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "StaticAndOverloadConstructor\\Program.cs",
+              "ToolTip": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\StaticAndOverloadConstructor\\StaticAndOverloadConstructor\\Program.cs",
+              "RelativeToolTip": "StaticAndOverloadConstructor\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:19:13.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalOperatorOrTernaryOperator", "ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator.csproj", "{156F29C0-6753-46E6-ACCD-33F1847B418C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156F29C0-6753-46E6-ACCD-33F1847B418C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156F29C0-6753-46E6-ACCD-33F1847B418C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156F29C0-6753-46E6-ACCD-33F1847B418C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156F29C0-6753-46E6-ACCD-33F1847B418C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68B1C703-52A8-4E86-BB5C-C40518C3C99B}
+	EndGlobalSection
+EndGlobal

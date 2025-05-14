@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9BE440-6EA3-4393-B11F-3F65D11AC8A9}|Inheritance\\Inheritance.csproj|c:\\users\\neil wayne cruz\\source\\repos\\object-oriented lesson\\inheritance\\inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9BE440-6EA3-4393-B11F-3F65D11AC8A9}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9BE440-6EA3-4393-B11F-3F65D11AC8A9}|Inheritance\\Inheritance.csproj|c:\\users\\neil wayne cruz\\source\\repos\\object-oriented lesson\\inheritance\\inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9BE440-6EA3-4393-B11F-3F65D11AC8A9}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9BE440-6EA3-4393-B11F-3F65D11AC8A9}|Inheritance\\Inheritance.csproj|c:\\users\\neil wayne cruz\\source\\repos\\object-oriented lesson\\inheritance\\inheritance\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9BE440-6EA3-4393-B11F-3F65D11AC8A9}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9BE440-6EA3-4393-B11F-3F65D11AC8A9}|Inheritance\\Inheritance.csproj|c:\\users\\neil wayne cruz\\source\\repos\\object-oriented lesson\\inheritance\\inheritance\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9BE440-6EA3-4393-B11F-3F65D11AC8A9}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\Inheritance\\Boat.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Boat.cs",
+              "ToolTip": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\Inheritance\\Boat.cs",
+              "RelativeToolTip": "Inheritance\\Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:59:47.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\Inheritance\\Bike.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Bike.cs",
+              "ToolTip": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\Inheritance\\Bike.cs",
+              "RelativeToolTip": "Inheritance\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:59:28.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\Inheritance\\Car.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Car.cs",
+              "ToolTip": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\Inheritance\\Car.cs",
+              "RelativeToolTip": "Inheritance\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:58:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\Inheritance\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\Inheritance\\Inheritance\\Vehicle.cs",
+              "RelativeToolTip": "Inheritance\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:57:05.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

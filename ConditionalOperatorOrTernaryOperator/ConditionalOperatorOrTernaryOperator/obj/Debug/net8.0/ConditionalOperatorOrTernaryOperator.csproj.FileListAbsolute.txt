@@ -1,0 +1,14 @@
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\bin\Debug\net8.0\ConditionalOperatorOrTernaryOperator.exe
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\bin\Debug\net8.0\ConditionalOperatorOrTernaryOperator.deps.json
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\bin\Debug\net8.0\ConditionalOperatorOrTernaryOperator.runtimeconfig.json
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\bin\Debug\net8.0\ConditionalOperatorOrTernaryOperator.dll
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\bin\Debug\net8.0\ConditionalOperatorOrTernaryOperator.pdb
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\ConditionalOperatorOrTernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\ConditionalOperatorOrTernaryOperator.AssemblyInfoInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\ConditionalOperatorOrTernaryOperator.AssemblyInfo.cs
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\ConditionalOperatorOrTernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\ConditionalOperatorOrTernaryOperator.dll
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\refint\ConditionalOperatorOrTernaryOperator.dll
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\ConditionalOperatorOrTernaryOperator.pdb
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\ConditionalOperatorOrTernaryOperator.genruntimeconfig.cache
+C:\Users\Neil Wayne Cruz\source\repos\ConditionalOperatorOrTernaryOperator\ConditionalOperatorOrTernaryOperator\obj\Debug\net8.0\ref\ConditionalOperatorOrTernaryOperator.dll
