@@ -6,6 +6,7 @@
         {
 
             // abstract class = modifier that makes a class incomplete and forces the user to implement the abstract class
+            // you cannot create an object of an abstract class or instantiate it
             Car car = new Car();
             Boat boat = new Boat();
             bike bike = new bike();
