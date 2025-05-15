@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# Files folder\\Object-Oriented Lesson\\MultiThreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D313D-8B03-4062-8E81-5EDDEAAF42FE}|MultiThreading\\MultiThreading.csproj|c:\\c# files folder\\object-oriented lesson\\multithreading\\multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D313D-8B03-4062-8E81-5EDDEAAF42FE}|MultiThreading\\MultiThreading.csproj|solutionrelative:multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Files folder\\Object-Oriented Lesson\\MultiThreading\\MultiThreading\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreading\\Program.cs",
+              "ToolTip": "C:\\C# Files folder\\Object-Oriented Lesson\\MultiThreading\\MultiThreading\\Program.cs",
+              "RelativeToolTip": "MultiThreading\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:58:58.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

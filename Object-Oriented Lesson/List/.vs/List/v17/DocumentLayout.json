@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\List\\",
+  "WorkspaceRootPath": "C:\\C# Files folder\\Object-Oriented Lesson\\List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33911641-F840-4E1A-93E9-B8FA158CE707}|List\\List.csproj|c:\\users\\neil wayne cruz\\source\\repos\\object-oriented lesson\\list\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33911641-F840-4E1A-93E9-B8FA158CE707}|List\\List.csproj|c:\\c# files folder\\object-oriented lesson\\list\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33911641-F840-4E1A-93E9-B8FA158CE707}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\List\\List\\Program.cs",
+              "DocumentMoniker": "C:\\C# Files folder\\Object-Oriented Lesson\\List\\List\\Program.cs",
               "RelativeDocumentMoniker": "List\\Program.cs",
-              "ToolTip": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\Object-Oriented Lesson\\List\\List\\Program.cs",
+              "ToolTip": "C:\\C# Files folder\\Object-Oriented Lesson\\List\\List\\Program.cs",
               "RelativeToolTip": "List\\Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAswEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:57:41.678Z",
               "EditorCaption": ""

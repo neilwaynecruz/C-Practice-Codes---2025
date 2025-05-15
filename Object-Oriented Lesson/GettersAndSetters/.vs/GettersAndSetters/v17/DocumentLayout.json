@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# Files folder\\Object-Oriented Lesson\\GettersAndSetters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEB7F27-B154-47B6-9D50-BAC6F40BF117}|GettersAndSetters\\GettersAndSetters.csproj|c:\\c# files folder\\object-oriented lesson\\gettersandsetters\\gettersandsetters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEB7F27-B154-47B6-9D50-BAC6F40BF117}|GettersAndSetters\\GettersAndSetters.csproj|solutionrelative:gettersandsetters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Files folder\\Object-Oriented Lesson\\GettersAndSetters\\GettersAndSetters\\Program.cs",
+              "RelativeDocumentMoniker": "GettersAndSetters\\Program.cs",
+              "ToolTip": "C:\\C# Files folder\\Object-Oriented Lesson\\GettersAndSetters\\GettersAndSetters\\Program.cs",
+              "RelativeToolTip": "GettersAndSetters\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:52:27.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
