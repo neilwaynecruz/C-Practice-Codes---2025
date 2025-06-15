@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Arrays\\Arrays\\obj\\Release",
+    "\\Arrays\\Arrays\\obj\\Release\\net8.0",
+    "\\Calculator\\Calculator",
+    "\\ConditionalStatement\\ConditionalStatement",
+    "\\LoopsStatements\\LoopsStatements",
+    "\\RockPaperScissorsGame\\RockPaperScissorsGame",
+    "\\StringInterpolation\\StringInterpolation",
+    "\\StringMethods\\StringMethods",
+    "\\Variables\\Variables"
   ],
   "PreviewInSolutionExplorer": false
 }
