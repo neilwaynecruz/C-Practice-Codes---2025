@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2301b6866f6a070ac1efe0532488952b25b3b05d")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f51ddfdd2f6f791c28d6ee0ff698c1a8eaa0fc")]
->>>>>>> a235e16173231f3cb3117d9e36b646f592f8e5f7
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd9033993818310080558e53c2a38ae094949ad1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirstProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirstProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
