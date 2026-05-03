@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fOoejQbI0h8=",
+  "dgSpecHash": "4gQJtpZa4IA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Neil Wayne Cruz\\source\\repos\\StringInterpolation\\StringInterpolation\\StringInterpolation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Neil Wayne Cruz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Neil Wayne Cruz\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Neil Wayne Cruz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Neil Wayne Cruz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
