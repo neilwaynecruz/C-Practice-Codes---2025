@@ -49,6 +49,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            // Form title
             labelTitle = new Label();
             labelCustomerName = new Label();
             textCustomerName = new TextBox();
@@ -85,6 +86,9 @@
             labelTitle.Size = new Size(203, 32);
             labelTitle.TabIndex = 13;
             labelTitle.Text = "MJRC Car Rental";
+            // 
+            // Customer input section
+            // 
             // 
             // labelCustomerName
             // 
@@ -123,6 +127,9 @@
             comboCarType.TabIndex = 9;
             comboCarType.SelectedIndexChanged += comboCarType_SelectedIndexChanged;
             // 
+            // Vehicle preview image
+            // 
+            // 
             // pictureVehicle
             // 
             pictureVehicle.BackColor = Color.White;
@@ -135,6 +142,9 @@
             pictureVehicle.TabIndex = 8;
             pictureVehicle.TabStop = false;
             pictureVehicle.Click += pictureVehicle_Click;
+            // 
+            // Travel date range picker
+            // 
             // 
             // groupTravelDate
             // 
@@ -184,6 +194,9 @@
             dateTo.Size = new Size(350, 30);
             dateTo.TabIndex = 3;
             // 
+            // Destination and driver selection
+            // 
+            // 
             // labelDestination
             // 
             labelDestination.AutoSize = true;
@@ -221,6 +234,9 @@
             comboDriver.Name = "comboDriver";
             comboDriver.Size = new Size(200, 31);
             comboDriver.TabIndex = 3;
+            // 
+            // Action buttons and driver rates display
+            // 
             // 
             // buttonReserve
             // 
@@ -317,6 +333,7 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "MJRC Car Rental";
+            // Wire up the form load event to initialize control defaults.
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureVehicle).EndInit();
             groupTravelDate.ResumeLayout(false);
