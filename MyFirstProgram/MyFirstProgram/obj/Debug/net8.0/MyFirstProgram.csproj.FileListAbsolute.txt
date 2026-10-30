@@ -12,3 +12,4 @@ C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\ne
 C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.pdb
 C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.genruntimeconfig.cache
 C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\ref\MyFirstProgram.dll
+C:\Users\Neil Wayne Cruz\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.sourcelink.json
